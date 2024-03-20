@@ -3,7 +3,7 @@ Hi there!✨My name is Darya Belova
 
 I'm manual QA-engineer
 ----------------------
-My journey in IT started at the end of 2022 with Yandex Practicum's "QA-Engineer" course. I then took a few months to explore different fields and study testing literature, articles on Habr, practice SQL and start learning Python. Soon, I was welcomed into two pet projects where I got to apply my knowledge, develop soft and hard skills, and collaborate with a team. My interest in QA comes from seeing the whole software development process and helping to make it better.
+My journey in IT started at the end of 2022 with Yandex Practicum's "QA-Engineer" course. I then took a few months to explore different fields and study testing literature, articles on [Habr](https://habr.com/), practice SQL and start learning Python. Soon, I was welcomed into two pet projects where I got to apply my knowledge, develop soft and hard skills, and collaborate with a team. My interest in QA comes from seeing the whole software development process and helping to make it better.
 
 * 🌍  based in Moscow, Russia
 * 🚀  currently working on [Short-Tracker](http://github.com/Short-Tracker)
